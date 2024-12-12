@@ -1,0 +1,8 @@
+se ( 2 > 3) {
+	late("Errado!");
+} 
+se_tambem ( 5 > 2 ) {
+	late("Certo!");
+}
+
+late("Teste fora da estrutura de decisão");
